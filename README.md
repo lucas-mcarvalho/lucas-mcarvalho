@@ -6,7 +6,7 @@
 - Atualmente estou fazendo Ciência da computação na UFT.
 -->
 <div> 
-  <a href="https://github.com/lucas-mcarvalho" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/lucas-mcarvalho" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*vFiGOTV1S8yz0RTIQteTjw.png" target="_blank"></a>
 
 badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
