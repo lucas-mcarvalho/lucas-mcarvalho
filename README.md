@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Ola me chamo Lucas Monteiro , Faço ciência da computação na UFT e estou estudando Java com spring Boot.
+Ola me chamo Lucas Monteiro , Faço ciência da computação na UFT.
 
 
 
