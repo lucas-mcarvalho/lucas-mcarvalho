@@ -82,12 +82,13 @@ Ola me chamo Lucas Monteiro , Faço ciência da computação na UFT.
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mcarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
+    <p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
   <img 
     src="https://raw.githubusercontent.com/lucas-mcarvalho/lucas-mcarvalho/output/github-contribution-grid-snake-dark.svg" 
     alt="github contribution grid snake animation"
-    style="max-width: 850px; width: 100%; height: auto;" />
+    style="max-width: 100%; height: auto;" />
 </p>
+
 
 
 </p>
