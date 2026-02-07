@@ -68,7 +68,7 @@ Ola me chamo Lucas Monteiro , Faço ciência da computação na UFT.
 ### 📊 Estatísticas
 
 <p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lucas-mcarvalho=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ <img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lucas-mcarvalho=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <img 
       align="left" 
